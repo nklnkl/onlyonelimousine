@@ -1,0 +1,34 @@
+.main header {
+  height: 75vh;
+  background-image: url("background.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  padding-top: 10vh; }
+  .main header div {
+    display: inline-block;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 100%;
+    padding: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    font-size: 2em; }
+.main section article {
+  padding: 7vh; }
+  .main section article h3 {
+    text-align: center; }
+.main section article:nth-child(1) {
+  background-color: lightgreen; }
+.main section article:nth-child(2) {
+  background-color: lightblue; }
+.main footer {
+  background-color: black; }
+  .main footer article {
+    padding-top: 5vh;
+    padding-bottom: 5vh; }
+    .main footer article h3 {
+      color: white;
+      text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
