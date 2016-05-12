@@ -13,12 +13,14 @@
   height: 100vh; }
 .main section article {
   padding: 7vh;
-  min-height: 700px;
+  min-height: 800px;
   font-family: NexaLight;
   font-size: 22px; }
   .main section article h3 {
     text-align: center;
     font-family: NexaBold; }
+  .main section article p {
+    margin-bottom: 40px; }
 .main section article:nth-child(1) {
   background-color: #f0f7fa; }
 .main section article:nth-child(2) {
